@@ -28,6 +28,7 @@
 
 ### Inside Events:
 > Create a file called `ready.js`
+> Create a file called `interactionCreate.js`
 
 ![image](https://user-images.githubusercontent.com/91328653/154479352-30795f38-0663-4157-a28a-7431d2f0524c.png)
 
